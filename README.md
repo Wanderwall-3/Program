@@ -1,1 +1,5 @@
-"learn" "learn"
+
+=======
+"learn" "learn" waste dkdkslkdjf 
+
+>>>>>>> newBranch
