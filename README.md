@@ -1,1 +1,1 @@
-"learn" "learn" "main main"
+"learn" "learn"
